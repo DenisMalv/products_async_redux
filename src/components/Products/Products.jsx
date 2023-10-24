@@ -48,6 +48,7 @@ const Products = ()=>{
                             </li>)
                     }
                     </ul>
+                    <div></div>
                 </div>
 
             }
